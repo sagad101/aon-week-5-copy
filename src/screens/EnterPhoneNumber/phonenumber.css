@@ -1,0 +1,27 @@
+.phon-right {
+  padding-block: 128px;
+  width: 620px;
+  height: 990px;
+  margin-top: 32px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.phonetext-content {
+  margin-top: 32px;
+  width: 100%;
+  text-align: center;
+}
+
+.phoneright-side_heading {
+  margin-top: 32px;
+  font-size: 40px;
+  font-weight: 700;
+}
+
+.phoneright-side_P {
+  font-size: 18px;
+  font-weight: 400;
+  color: #999999;
+}

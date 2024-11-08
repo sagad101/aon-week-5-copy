@@ -1,0 +1,26 @@
+.validation-container {
+  margin-top: 32px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 100%;
+}
+
+.validation-p {
+  font-size: 16px;
+  font-weight: 700px;
+}
+
+.phoneNumbervalidation-container {
+  margin-top: 8px;
+}
+
+.input {
+  width: 100%;
+}
+
+.error {
+  margin-top: 8px;
+  font-size: 14px;
+  color: red;
+}

@@ -1,0 +1,43 @@
+.left-side {
+  width: 680px;
+  height: 990px;
+  background-color: #3c97af;
+  margin-top: 32px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: #fff;
+}
+.left-side .main-heading {
+  font-size: 40px;
+  line-height: 60px;
+  margin-top: 138px;
+  margin-bottom: 48px;
+  font-weight: 700px;
+}
+.left-side .main-P {
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 30px;
+}
+.img-container {
+  height: 300px;
+  width: 100%;
+  position: relative;
+  bottom: 10px;
+  left: 0px;
+  position: absolute;
+}
+.first-v {
+  position: relative;
+  right: 5px;
+  bottom: 80px;
+}
+.second-v {
+  position: relative;
+  right: 680px;
+  bottom: 79px;
+  overflow: hidden;
+}
