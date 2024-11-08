@@ -1,5 +1,3 @@
-import "./Progressline.css";
-
 const ProgressLine = () => {
   return (
     <div className="progressline-container">
